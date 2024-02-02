@@ -1,7 +1,7 @@
 #[derive(Debug)]    // <1>
 enum Cereal {       // <2>
     Barley, Millet, Rice,
-    Rye, Spelt, Wheat,
+    Rye, Spelt, Wheat, Pickles,
 }
 
 fn main() {
